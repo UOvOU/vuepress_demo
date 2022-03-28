@@ -11,7 +11,7 @@ module.exports = {
     docsRepo: "https://github.com/noralinlll/vuepress_demo",
     docsBranch: "doc-release",
     docsDir: "docs",
-    editLinkPattern: ":repo/-/edit/:branch/:path",
+    editLinkPattern: ":repo/edit/:branch/:path",
     editLinkText: "Github EditLink",
   },
   base: "/vuepress_demo/",
