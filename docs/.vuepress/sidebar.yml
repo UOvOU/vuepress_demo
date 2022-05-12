@@ -1,0 +1,14 @@
+en:
+  index: index
+  whats_new: What's New
+  whats_new/release_notes: Release Notes
+  specification: specification
+  specification/product_type: product enum
+  specification/thing_model: thing model
+cn:
+  index: 首页
+  whats_new: 最新动态
+  whats_new/release_notes: 版本发布记录
+  specification: 规范
+  specification/product_type: 产品枚举值
+  specification/thing_model: 物模型
